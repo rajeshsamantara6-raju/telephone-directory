@@ -4,7 +4,7 @@
     "name": "Amrut P Mohanty",
     "designation": "Chief Administrative Officer",
     "ext": "2233",
-    "email": "cao@iimsambalpur.ac.in",
+    "email": "amrut.mohanty@example.com",
     "location": "Admin Building (Kautilya)"
   },
   {
@@ -12,7 +12,7 @@
     "name": "Sadbhavana Das",
     "designation": "Office Assistant",
     "ext": "2230",
-    "email": "sadbhavanad@iimsambalpur.ac.in",
+    "email": "sadbhavana.das@example.com",
     "location": "Admin Building (Kautilya)"
   },
   {
@@ -20,7 +20,7 @@
     "name": "Sibani Das",
     "designation": "Office Assistant",
     "ext": "2219",
-    "email": "sibanid@iimsambalpur.ac.in",
+    "email": "sibani.das@example.com",
     "location": "Admin Building (Kautilya)"
   },
   {
@@ -28,7 +28,7 @@
     "name": "Dr. Jigisha Patel",
     "designation": "Administrative Officer (BS Programme)",
     "ext": "2125",
-    "email": "jigishap@iimsambalpur.ac.in",
+    "email": "jigisha.patel@example.com",
     "location": "Academic Building I (Takshshilla-I)"
   },
   {
@@ -36,7 +36,7 @@
     "name": "Shradha Singh",
     "designation": "Office Assistant (DSAI)",
     "ext": "2126",
-    "email": "shradhas@iimsambalpur.ac.in",
+    "email": "shradha.singh@example.com",
     "location": "Academic Building I (Takshshilla-I)"
   },
   {
@@ -44,7 +44,7 @@
     "name": "Madhusmita Srichandan",
     "designation": "Junior Office Assistant (MPP)",
     "ext": "2124",
-    "email": "madhusmitas@iimsambalpur.ac.in",
+    "email": "madhusmita.srichandan@example.com",
     "location": "Academic Building I (Takshshilla-I)"
   },
   {
@@ -52,7 +52,7 @@
     "name": "Mohsin Raja",
     "designation": "Library Assistant",
     "ext": "2526",
-    "email": "mohsinr@iimsambalpur.ac.in",
+    "email": "mohsin.raja@example.com",
     "location": "I2 Hub"
   },
   {
@@ -60,7 +60,7 @@
     "name": "S. Kannan",
     "designation": "Librarian",
     "ext": "2535",
-    "email": "",
+    "email": "skannan@example.com",
     "location": "I2 Hub"
   },
   {
@@ -68,7 +68,7 @@
     "name": "Sujit Kumar Pati",
     "designation": "Secretary to Director",
     "ext": "2211",
-    "email": "sujitp@iimsambalpur.ac.in",
+    "email": "sujit.pati@example.com",
     "location": "Admin Building (Kautilya)"
   },
   {
@@ -76,7 +76,7 @@
     "name": "Dusmanta Kumar Pradhan",
     "designation": "Office Assistant (Estate Management)",
     "ext": "2231",
-    "email": "dusmantap@iimsambalpur.ac.in",
+    "email": "dusmanta.pradhan@example.com",
     "location": "Admin Building (Kautalya)"
   },
   {
@@ -84,7 +84,7 @@
     "name": "Shailendra Mohan Shukla",
     "designation": "Estate Supervisor",
     "ext": "2229",
-    "email": "shailendras@iimsambalpur.ac.in",
+    "email": "shailendra.shukla@example.com",
     "location": ""
   },
   {
@@ -92,7 +92,7 @@
     "name": "Subodh Kumar Dora",
     "designation": "Chief Finance Officer",
     "ext": "2212",
-    "email": "subodhd@iimsambalpur.ac.in",
+    "email": "subodh.dora@example.com",
     "location": "Admin Building (Kautilya)"
   },
   {
@@ -100,7 +100,7 @@
     "name": "Ashish Singh Parmar",
     "designation": "Administrative Officer",
     "ext": "2213",
-    "email": "ashish@iimsambalpur.ac.in",
+    "email": "ashish.parmar@example.com",
     "location": "Admin Building (Kautilya)"
   },
   {
@@ -108,7 +108,7 @@
     "name": "Account Office",
     "designation": "Account Office",
     "ext": "2214",
-    "email": "finance@iimsambalpur.ac.in",
+    "email": "account.office@example.com",
     "location": "Admin Building (Kautilya)"
   },
   {
@@ -116,7 +116,7 @@
     "name": "Swagatika Padhi",
     "designation": "Administrative Officer (HR In-Charge)",
     "ext": "2244",
-    "email": "swagatikap@iimsambalpur.ac.in",
+    "email": "swagatika.padhi@example.com",
     "location": "Admin Building (Kautilya)"
   },
   {
@@ -124,7 +124,7 @@
     "name": "Swatgatika Mahapatra",
     "designation": "Office Assistant (HR)",
     "ext": "2232",
-    "email": "swatgatika.m@iimsambalpur.ac.in",
+    "email": "swatgatika.mahapatra@example.com",
     "location": "Admin Building (Kautilya)"
   },
   {
@@ -132,7 +132,7 @@
     "name": "Deeya Kauchha",
     "designation": "Junior Office Assistant",
     "ext": "2247",
-    "email": "deeyak@iimsambalpur.ac.in",
+    "email": "deeya.kauchha@example.com",
     "location": "Admin Building (Kautilya)"
   },
   {
@@ -140,7 +140,7 @@
     "name": "Anjeneya Jal",
     "designation": "Administrative Officer (Infra)",
     "ext": "2242",
-    "email": "anjeneyajal@iimsambalpur.ac.in",
+    "email": "anjeneya.jal@example.com",
     "location": ""
   },
   {
@@ -148,7 +148,7 @@
     "name": "Bibek Polai",
     "designation": "JE (Civil)",
     "ext": "2241",
-    "email": "bibekp@iimsambalpur.ac.in",
+    "email": "bibek.polai@example.com",
     "location": ""
   },
   {
@@ -156,7 +156,7 @@
     "name": "Hrusikesh Sadangi",
     "designation": "JE (Mech)",
     "ext": "2243",
-    "email": "hrushikeshs@iimsambalpur.ac.in",
+    "email": "hrusikesh.sadangi@example.com",
     "location": ""
   }
 ]
