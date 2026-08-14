@@ -1,1 +1,162 @@
-[ { "department":"Administration", "name":"Rajesh P Mohanty", "designation":"Chief Administrative Officer", "ext":"2233", "email":"cao@iimsambalpur.ac.in", "location":"Admin Building (Kautilya)" }, { "department":"Administration", "name":"Sadbhavana Das", "designation":"Office Assistant", "ext":"2230", "email":"sadbhavanad@iimsambalpur.ac.in", "location":"Admin Building (Kautilya)" }, { "department":"Administration", "name":"Sibani Das", "designation":"Administrative Assistant", "ext":"2231", "email":"sibanid@iimsambalpur.ac.in", "location":"Admin Building (Kautilya)" }, { "department":"BS Programme", "name":"Dr. Jigisha Patel", "designation":"Administrative Officer", "ext":"2125", "email":"jigishap@iimsambalpur.ac.in", "location":"Academic Building" }, { "department":"BS Programme", "name":"Rahul Sharma", "designation":"Programme Coordinator", "ext":"2126", "email":"rahuls@iimsambalpur.ac.in", "location":"Academic Building" }, { "department":"Accounts", "name":"Anita Mishra", "designation":"Accounts Officer", "ext":"2205", "email":"accounts@iimsambalpur.ac.in", "location":"Finance Office" } ]
+[
+  {
+    "department": "Administration",
+    "name": "Amrut P Mohanty",
+    "designation": "Chief Administrative Officer",
+    "ext": "2233",
+    "email": "cao@iimsambalpur.ac.in",
+    "location": "Admin Building (Kautilya)"
+  },
+  {
+    "department": "Administration",
+    "name": "Sadbhavana Das",
+    "designation": "Office Assistant",
+    "ext": "2230",
+    "email": "sadbhavanad@iimsambalpur.ac.in",
+    "location": "Admin Building (Kautilya)"
+  },
+  {
+    "department": "Administration",
+    "name": "Sibani Das",
+    "designation": "Office Assistant",
+    "ext": "2219",
+    "email": "sibanid@iimsambalpur.ac.in",
+    "location": "Admin Building (Kautilya)"
+  },
+  {
+    "department": "BS Programme",
+    "name": "Dr. Jigisha Patel",
+    "designation": "Administrative Officer (BS Programme)",
+    "ext": "2125",
+    "email": "jigishap@iimsambalpur.ac.in",
+    "location": "Academic Building I (Takshshilla-I)"
+  },
+  {
+    "department": "BS Programme",
+    "name": "Shradha Singh",
+    "designation": "Office Assistant (DSAI)",
+    "ext": "2126",
+    "email": "shradhas@iimsambalpur.ac.in",
+    "location": "Academic Building I (Takshshilla-I)"
+  },
+  {
+    "department": "BS Programme",
+    "name": "Madhusmita Srichandan",
+    "designation": "Junior Office Assistant (MPP)",
+    "ext": "2124",
+    "email": "madhusmitas@iimsambalpur.ac.in",
+    "location": "Academic Building I (Takshshilla-I)"
+  },
+  {
+    "department": "Central Library",
+    "name": "Mohsin Raja",
+    "designation": "Library Assistant",
+    "ext": "2526",
+    "email": "mohsinr@iimsambalpur.ac.in",
+    "location": "I2 Hub"
+  },
+  {
+    "department": "Central Library",
+    "name": "S. Kannan",
+    "designation": "Librarian",
+    "ext": "2535",
+    "email": "",
+    "location": "I2 Hub"
+  },
+  {
+    "department": "Director Office",
+    "name": "Sujit Kumar Pati",
+    "designation": "Secretary to Director",
+    "ext": "2211",
+    "email": "sujitp@iimsambalpur.ac.in",
+    "location": "Admin Building (Kautilya)"
+  },
+  {
+    "department": "Estate Office",
+    "name": "Dusmanta Kumar Pradhan",
+    "designation": "Office Assistant (Estate Management)",
+    "ext": "2231",
+    "email": "dusmantap@iimsambalpur.ac.in",
+    "location": "Admin Building (Kautalya)"
+  },
+  {
+    "department": "Estate Office",
+    "name": "Shailendra Mohan Shukla",
+    "designation": "Estate Supervisor",
+    "ext": "2229",
+    "email": "shailendras@iimsambalpur.ac.in",
+    "location": ""
+  },
+  {
+    "department": "Finance & Accounts",
+    "name": "Subodh Kumar Dora",
+    "designation": "Chief Finance Officer",
+    "ext": "2212",
+    "email": "subodhd@iimsambalpur.ac.in",
+    "location": "Admin Building (Kautilya)"
+  },
+  {
+    "department": "Finance & Accounts",
+    "name": "Ashish Singh Parmar",
+    "designation": "Administrative Officer",
+    "ext": "2213",
+    "email": "ashish@iimsambalpur.ac.in",
+    "location": "Admin Building (Kautilya)"
+  },
+  {
+    "department": "Finance & Accounts",
+    "name": "Account Office",
+    "designation": "Account Office",
+    "ext": "2214",
+    "email": "finance@iimsambalpur.ac.in",
+    "location": "Admin Building (Kautilya)"
+  },
+  {
+    "department": "HR Office",
+    "name": "Swagatika Padhi",
+    "designation": "Administrative Officer (HR In-Charge)",
+    "ext": "2244",
+    "email": "swagatikap@iimsambalpur.ac.in",
+    "location": "Admin Building (Kautilya)"
+  },
+  {
+    "department": "HR Office",
+    "name": "Swatgatika Mahapatra",
+    "designation": "Office Assistant (HR)",
+    "ext": "2232",
+    "email": "swatgatika.m@iimsambalpur.ac.in",
+    "location": "Admin Building (Kautilya)"
+  },
+  {
+    "department": "HR Office",
+    "name": "Deeya Kauchha",
+    "designation": "Junior Office Assistant",
+    "ext": "2247",
+    "email": "deeyak@iimsambalpur.ac.in",
+    "location": "Admin Building (Kautilya)"
+  },
+  {
+    "department": "Infrastructure",
+    "name": "Anjeneya Jal",
+    "designation": "Administrative Officer (Infra)",
+    "ext": "2242",
+    "email": "anjeneyajal@iimsambalpur.ac.in",
+    "location": ""
+  },
+  {
+    "department": "Infrastructure",
+    "name": "Bibek Polai",
+    "designation": "JE (Civil)",
+    "ext": "2241",
+    "email": "bibekp@iimsambalpur.ac.in",
+    "location": ""
+  },
+  {
+    "department": "Infrastructure",
+    "name": "Hrusikesh Sadangi",
+    "designation": "JE (Mech)",
+    "ext": "2243",
+    "email": "hrushikeshs@iimsambalpur.ac.in",
+    "location": ""
+  }
+]
